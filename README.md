@@ -807,19 +807,13 @@ The project continues to evolve through testing, iteration, and practical engine
 
 ## License
 
-AWC is licensed under the MIT License.
+Copyright (c) 2026 Afraz Akbar. All rights reserved.
 
-Copyright (c) 2026 Afraz Akbar.
+This project and its source code are proprietary and protected under copyright law. No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software or hardware design without explicit written permission from the copyright holder.
 
-You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, subject to the terms and conditions of the MIT License.
+See the [LICENSE](LICENSE) file for details.
 
-The copyright notice and permission notice must be included in all copies or substantial portions of the software.
-
-The software is provided "AS IS", without warranty of any kind, express or implied.
-
-See the LICENSE file for the complete license terms.
-
-Note: The MIT License applies to the project code covered by the license. Third-party components, hardware designs, trademarks, and other materials may be subject to separate terms.
+*Note: Third-party libraries included in this repository (such as `ESP32Servo`) remain subject to their respective open-source licenses.*
 
 
 
